@@ -1,4 +1,8 @@
 #This is my test file
+triggers:
+  branches:
+    include:
+    - dev
 stages:
 - stage: Build
   jobs:
