@@ -1,5 +1,5 @@
 #This is my test file
-triggers:
+trigger:
   branches:
     include:
     - dev
